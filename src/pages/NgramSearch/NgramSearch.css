@@ -1,0 +1,23 @@
+/* frontend/src/pages/NgramSearch/NgramSearch.css */
+
+.ngram-search-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+}
+
+.ngram-search-title {
+  margin-bottom: 20px;
+  font-size: 2em;
+}
+
+.ngram-search-chart {
+  width: 80%;
+  max-width: 800px;
+  height: 400px;
+  padding: 20px;
+  background: #f9f9f9;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
